@@ -63,9 +63,6 @@ function Register() {
                                     <div className="d-grid mb-3">
                                         <button type="submit" className="btn btn-primary">Register</button>
                                     </div>
-                                    <div className="d-grid">
-                                        <button type="button" onClick={handleClickNavigation("/changePassword")} className="btn btn-success">Login</button>
-                                    </div>
                                 </form>
                             </div>
                         </div>
